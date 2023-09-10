@@ -1,0 +1,118 @@
+* {
+    background-color: blueviolet;
+  }
+  .page-login {
+    margin: 100px 150px;
+    width: 350px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  #page-signup {
+    margin: -526px 700px;
+    width: 350px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .heading {
+    background-color: white;
+    text-align: center;
+  }
+ .row-email{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: white;
+  }
+  .row-password{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: white;
+  }
+  #row-forget {
+    text-align: center;
+    background-color: white;
+    color: blueviolet;
+  }
+  .row-login {
+    text-align: center;
+    width: 200px;
+    background-color: blueviolet;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  .row-dont-have-account {
+    text-decoration: solid;
+    background-color: white;
+    display: inline;
+    margin-left: 70px;
+  }
+  .signup-row {
+    text-align: center;
+    background-color: white;
+    color: blueviolet;
+    display: inline;
+  }
+  h2 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.01em;
+    margin: 10px 0 20px; 
+    background-color: #000;
+    margin-top: 22px;
+ } 
+ 
+ h2 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+  .row-login-facebook {
+    text-align:center;
+    width:200px;
+    background-color:blueviolet;
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -27px;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  .row-login-google {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+  }
+  .fa-eye-slash {
+    background-color: white;
+    margin-left: 253px;
+  }
+  .fa-facebook {
+    padding: 5px;
+    color: white;
+    margin-left: 74px;
+    border-radius: 4px;
+  }
+   .fa-google {
+    background-color: white;
+    color: black;
+    margin-left: 74px;
+  } 
